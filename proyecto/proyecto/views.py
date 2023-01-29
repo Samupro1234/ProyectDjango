@@ -5,8 +5,8 @@ from django.template import Template, Context
 
 
 def saludo(respuest):
-    nombre="Vladimir"
-    apellido="ascue"
+    nombre="Samuel "
+    apellido="Allpacca Amnuttupa"
     ahora=datetime.datetime.now()
 
 
